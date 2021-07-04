@@ -1,0 +1,6 @@
+	instructions to use this project
+
+1. move this folder into C://xampp/htdocs.
+2. in php my admin , export sql file named 'onechat.sql' in folder named 'database'.
+3. Then start xampp server.
+4. Go to browser , and then done.
